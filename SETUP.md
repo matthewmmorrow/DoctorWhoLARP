@@ -41,7 +41,7 @@ This combination makes a quick 13th Doctor cosplay.
 Take apart one of the UV markers and remove the UV LED. Carefully take apart the sonic screwdriver. Remove the LED and motor in the front and replace the LED with the UV one. In order for the UV to actually be effective, I had to drill most of the way through the crystal end from the inside and slide the LED up. The screwdriver no longer rotates but I had a separate one.
 
 If this is above your skill you can decorate one of the markers like a sonic screwdriver with some clay or spray paint. This design was inspired by a 10th Doctor "secret message" sonic which uses the same principal (and has a secret message pen) so you can purchase that instead.!
-[Sonic Screwdriver Revealing A Message](Images\1 - INT. HMS PASTEUR AFT - Sonic Screwdriver Hint.jpg)
+[Sonic Screwdriver Revealing A Message](Images/1 - INT. HMS PASTEUR AFT - Sonic Screwdriver Hint.jpg)
 
 # INT. HMS PASTEUR AFT - Oxygenator and Access Puzzles
 
@@ -197,8 +197,8 @@ List of hints:
 
 With the wood, make a hexagonal or octagonal base which will be covered in the golden table cloth to look like the TARDIS center console. You can use a round table and it will be close enough. Stack 2 large tomato cages on top of each other and wrap the chicken wire on top. Cover with orange table cloth for the center crystal. Put a medium tomato cage on a large tomato cage at an angle (with zip ties). Cover with orange table cloth. Put a light inside each "crystal" which will be turned on when the cable puzzle is solved.
 
-![TARDIS Crystal](Images\4 - INT. TARDIS - Crystal Power Puzzle.jpg)
+![TARDIS Crystal](Images/4 - INT. TARDIS - Crystal Power Puzzle.jpg)
 
 For the puzzle, cut a 2x3 into 2 inch sections. Each will have holes drilled on one half of the piece and nails on the other to make a sort of symmetrical plug. There are different patterns. Attach 6 of the walls on the outside (again, command strips) and 6 to the center console (not just the table cloth). Next make the required rope plugs and cut rope to length and staple to the plugs. A diagram is included. You could make it far simpler. The players had to unplug some of the "cables" and then plug them back in. On a few pieces they had to combine plugs to make a longer cable to reach the corresponding plugs. 
 
-![Wiring Diagram](TARDIS Interior\20190506_213754.jpg)![Plug Templates](TARDIS Interior\20190515_192326.jpg)![Plug Example](TARDIS Interior\20190529_215649.jpg)
+![Wiring Diagram](TARDIS Interior/20190506_213754.jpg)![Plug Templates](TARDIS Interior/20190515_192326.jpg)![Plug Example](TARDIS Interior/20190529_215649.jpg)

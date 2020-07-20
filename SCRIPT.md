@@ -150,7 +150,7 @@ When the TARDIS is powered, it DEMATERIALIZES and the game is complete.
 
 # Appendix A: TARDIS wiring diagram
 
-![Wiring Diagram](TARDIS Interior\20190506_213754.jpg)
+![Wiring Diagram](TARDIS Interior/20190506_213754.jpg)
 
 # Appendix B: Messages
 
