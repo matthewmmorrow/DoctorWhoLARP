@@ -24,10 +24,10 @@ Can you arrange different lengths of wires and plugs to get the TARDIS working a
 The middle scene of the game is a space ship simulator, using a custom written mission for the bridge simulator EmptyEpsilon. This can be performed with 3-8 players and needs computers for each. 
 
 # Contents
-* [Script](SCRIPT.md) ([PDF](Script.pdf))
-* [Setup](SETUP.md)
-* [Printables](Printables.pdf)
-* [Sounds](Sounds)
+* [Script](SCRIPT.md) ([PDF](Script.pdf)) - The best description of the LARP, what to say and do
+* [Setup](SETUP.md) - How to set up each room and the materials needed
+* [Printables](Printables.pdf) - A few things to print to add to the setting
+* [Sounds](Sounds) - Sound files to play
 
 # Software
 This is the software used during this project. Not all of it is needed to run the LARP. Feel free to use newer versions but the EmptyEpsilon mission was specifically designed for version `2019.01.19` and may not run on new versions.
