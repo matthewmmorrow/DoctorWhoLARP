@@ -134,9 +134,7 @@ The companions retrieve their invitations.
 > I hope you enjoy your birthday, this IS a milestone YEAR!
 
 **INVITATION 2 - Digit = 1**
-
 **INVITATION 3 - Digit = 9**
-
 **INVITATION 4 - Digit = 8**
 **INVITATION 5 - Digit = 9**
 
@@ -152,7 +150,7 @@ When the TARDIS is powered, it DEMATERIALIZES and the game is complete.
 
 # Appendix A: TARDIS wiring diagram
 
-![image alt text](image_0.png)
+![Wiring Diagram](TARDIS Interior\20190506_213754.jpg)
 
 # Appendix B: Messages
 
