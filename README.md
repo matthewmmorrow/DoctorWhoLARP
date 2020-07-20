@@ -1,3 +1,4 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 # Introduction
 
 Welcome! This is a Doctor Who themed LARP that was put on for a birthday party. One special person is "The Doctor" and the others are "The Companions". It challenges the participants to solve some tricky puzzles, work together, fix the TARDIS and pilot a spacheship. Wow, that's just like in the show!
@@ -39,4 +40,11 @@ This is the software used during this project. Not all of it is needed to run th
 
 
 # License
-All original content is licensed under CC-SA-NC. Individual software and content is subject to it's source license.
+All original content in this work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. Derived content is subject to it's source license.
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
