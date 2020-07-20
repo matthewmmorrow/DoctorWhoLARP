@@ -26,7 +26,17 @@ The middle scene of the game is a space ship simulator, using a custom written m
 Link to documents
 
 # Software
-Link to software used
+This is the software used during this project. Not all of it is needed to run the LARP. Feel free to use newer versions but the EmptyEpsilon mission was specifically designed for version `2019.01.19` and may not run on new versions.
+
+* **[EmptyEpsilon 2019.01.19](https://github.com/daid/EmptyEpsilon/releases/download/EE-2019.11.01/Win32_EmptyEpsilon_EE-2019.11.01.zip)** - The only necessary software to install. Used for playing a custom mission on the bridge. *Android versions don't work well*
+*[SciFiCode](https://github.com/matthewmmorrow/SciFiCode) - A custom website for the access panels.
+* [Inkscape 0.92.4](https://inkscape.org/release/0.92.4/windows/) - Used for editing the invitation SVG files.
+* [Reaper v5978](https://www.reaper.fm/download.php) - Used for a Dalek voice effect for video call. *The software has a 60 day trial so plan accordingly*
+* [VBCABLE Driver Pack 43](https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack43.zip) - Allows Reaper to be used in a video call.
+* [Webcamoid 8.6.1](https://webcamoid.github.io/#downloads) - Used for a Dalek video call. Allows a video to be played as a webcam.
+* [Skype] - Used for the Dalek video call. Use whatever video software you are comfortable with.
+* [Blender 2.79b](https://www.blender.org/download/releases/2-79/) - Used for editing the models for the mission. Not typically needed.
+
 
 # License
 All original content is licensed under CC-SA-NC. Individual software and content is subject to it's source license.
