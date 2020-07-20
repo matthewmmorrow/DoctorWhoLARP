@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+#Introduction
 
-You can use the [editor on GitHub](https://github.com/matthewmmorrow/DoctorWhoLARP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! This is a Doctor Who themed LARP that was put on for a birthday party. One special person is "The Doctor" and the others are "The Companions". It challenges the participants to solve some tricky puzzles, work together, fix the TARDIS and pilot a spacheship. Wow, that's just like in the show!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Overview
+##Setting
+The Doctor and Companions gather in TARDIS. After a brief introduction, they land on the interior cargo bay of a recently abandoned spaceship in the year 2719. The TARDIS, detecting danger, dematerializes away. They must find out what happened, and find a way to get the TARDIS back.
 
-### Markdown
+##Puzzles
+### Water Jug Puzzle
+A classic make-X-amount-of-water puzzle.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Security Access Panel
+A timed excercise in communication.
 
-```markdown
-Syntax highlighted code block
+### Combination Lock Code
+Find the combination. The answer was with you all along.
 
-# Header 1
-## Header 2
-### Header 3
+### Wiring Problem
+Can you arrange different lengths of wires and plugs to get the TARDIS working again?
 
-- Bulleted
-- List
+##Space Ship Simulator
+The middle scene of the game is a space ship simulator, using a custom written mission for the bridge simulator EmptyEpsilon. This can be performed with 3-8 players and needs computers for each. 
 
-1. Numbered
-2. List
+#Contents
+Link to documents
 
-**Bold** and _Italic_ and `Code` text
+#Software
+Link to software used
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewmmorrow/DoctorWhoLARP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#License
+All original content is licensed under CC-SA-NC. Individual software and content is subject to it's source license.
