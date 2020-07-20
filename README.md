@@ -34,7 +34,7 @@ This is the software used during this project. Not all of it is needed to run th
 * [Reaper v5978](https://www.reaper.fm/download.php) - Used for a Dalek voice effect for video call. *The software has a 60 day trial so plan accordingly*
 * [VBCABLE Driver Pack 43](https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack43.zip) - Allows Reaper to be used in a video call.
 * [Webcamoid 8.6.1](https://webcamoid.github.io/#downloads) - Used for a Dalek video call. Allows a video to be played as a webcam.
-* [Skype] - Used for the Dalek video call. Use whatever video software you are comfortable with.
+* [Skype](https://www.skype.com/en/get-skype/) - Used for the Dalek video call. Use whatever video software you are comfortable with.
 * [Blender 2.79b](https://www.blender.org/download/releases/2-79/) - Used for editing the models for the mission. Not typically needed.
 
 
